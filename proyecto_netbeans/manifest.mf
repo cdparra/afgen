@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by buil
+Class-Path: lib/jgraph.jar lib/jgraphlayout-dev.jar lib/jgraphlayout.jar lib/l2fprod-common.jar lib/simple-xml-1.7.3.jar lib/stax-1.2.0.jar lib/stax-api-1.0.1.jar
